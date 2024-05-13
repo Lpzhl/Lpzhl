@@ -33,9 +33,6 @@
 
 - 组件项目(component projects)
 
-
-
-
 ### 🎉 Get in touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/lhccong)
