@@ -3,7 +3,7 @@
 ## 我是lzh
 
 - 🌹 I am a Java developer with two and a half years of practice 🐵.
-- 🏡 作品：
+- 🏡 作品：<a>音乐播放器🔥<a> | <a>聊天室 ✨<a> | <a> 仿携程旅行 🔍<a>| <a>云简 🌱<a> | <a> API开发平台 <a> | <a> 智能编辑器 🤖<a>
 - 📝 博客：- 足够硬核，内容老狠了！
 
 
@@ -29,7 +29,7 @@
 ### 开发的项目(developed projects)
 
 - 业务项目(business projects)
-  - [SpringBoot 项目快速开发模板⚡](https://github.com/lhccong/springboot-init)
+  - [SpringBoot 项目快速开发模板⚡]
 
 - 组件项目(component projects)
 
